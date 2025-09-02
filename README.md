@@ -37,13 +37,6 @@
 
 ---
 
-## 📊 GitHub estadisticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=francovegadev&show_icons=true&theme=dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francovegadev&layout=compact&theme=dark&hide_border=true" height="180" />
-</p>
-
 ---
 
 ## 💬 Conectemos!! ⚡
