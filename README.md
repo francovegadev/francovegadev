@@ -1,6 +1,6 @@
-<h1 align="center">Welcome, I'm Franco Vega 👋</h1>
+<h1 align="center">Bienvenidos, soy Franco Vega 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/francovegadev?v=4](https://avatars.githubusercontent.com/u/65871659?s=400&u=2d44b071adb0145bd5ab2981bff09a973e55b1fe&v=4" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/65871659?v=4" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
 - Apasionado por construir soluciones de software robustas y escalables.
 - Proactivo en el aprendizaje y adaptabilidad a nuevas tecnologías y frameworks.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Technologies
+## 🚀 Tecnologías
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub estadisticas
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=francovegadev&show_icons=true&theme=dark&hide_border=true" height="180" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 💬 Connect with Me ⚡
+## 💬 Conectemos!! ⚡
 
 - [LinkedIn](https://www.linkedin.com/in/franco-vega-671981227/)
 
