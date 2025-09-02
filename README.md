@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenidos, soy Franco Vega 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/65871659?v=4" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG8YqZI0ULS0g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715629242516?e=1759968000&v=beta&t=cXjxukSes8iH5ziY_7OTXUZJibYkFz0FzMfX6OtGTBU" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -34,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </p>
-
----
 
 ---
 
