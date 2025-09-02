@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm Franco Vega 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/francovegadev?v=4" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/francovegadev?v=4](https://avatars.githubusercontent.com/u/65871659?s=400&u=2d44b071adb0145bd5ab2981bff09a973e55b1fe&v=4" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
