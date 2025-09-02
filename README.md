@@ -7,9 +7,6 @@
   <b>Ingeniero en Sistemas de Información | Backend Developer</b>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=francovegadev&theme=dark&hide_border=true" />
-</p>
 
 ---
 
