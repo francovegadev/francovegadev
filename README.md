@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenidos, soy Franco Vega 👋</h1>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG8YqZI0ULS0g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715629242516?e=1759968000&v=beta&t=cXjxukSes8iH5ziY_7OTXUZJibYkFz0FzMfX6OtGTBU" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocJZ7A9Kqr7sF8rhe3E_6SwLOh9UbE1rd5IS3kIHZ39eTeHH_3RL=s400-c" width="150" alt="Franco Vega Avatar" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
